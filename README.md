@@ -2,125 +2,142 @@
 [![Actions Status](https://github.com/guilyx/guilyx/workflows/update-gh-activity/badge.svg)](https://github.com/guilyx/guilyx/actions)
 ![](https://visitor-badge.glitch.me/badge?page_id=guilyx.guilyx)
 
+<!-- <p align="center">
+<img alt="loficity" width="600px" src="https://github.com/HyunCafe/HyunCafe/raw/main/assests/loficity.gif"</img>
+</p> -->
+
+<p align="center">
+  <img src="https://socialify.git.ci/guilyx/guilyx/image?font=Source%20Code%20Pro&forks=1&issues=1&language=1&name=1&owner=1&pattern=Plus&pulls=1&stargazers=1&theme=Dark" alt="guilyx" width="700" height="300" />
+</p>
+
 <p align="center">
 <br/>
-<a href="https://twitter.com/nthofhisname">
-  <img alt="guilyx | Twitter" width="50px" src="https://user-images.githubusercontent.com/43545812/144034996-602b144a-16e1-41cc-99e7-c6040b20dcaf.png"/>
-</a>
 <a href="https://www.linkedin.com/in/erwinlejeune-lkn">
   <img alt="guilyx's LinkdeIN" width="50px" src="https://user-images.githubusercontent.com/43545812/144035037-0f415fc7-9f96-4517-a370-ccc6e78a714b.png" />
-</a>
-<a href="https://www.instagram.com/nthofhisname">
-  <img alt="guilyx's Instagram" width="50px" src="https://user-images.githubusercontent.com/43545812/144035088-0dfb165f-8fe0-4d13-896c-876c29d2b128.png" />
 </a>
 <a href="https://open.spotify.com/user/11147618695?si=zZFn6uAGRLyoU02lsG50GA">
   <img alt="guilyx's Spotify" width="50px" src="https://user-images.githubusercontent.com/43545812/144035120-1ad5169b-91c7-4078-bef9-6a82c733f373.png" />
 </a>
 <br>
-<img alt="Code Time" src="https://img.shields.io/endpoint?style=flat&url=https://codetime-api.datreks.com/badge/1615?logoColor=white%26project=%26recentMS=0%26showProject=false" />
 </p>
+
+<p align="center">
+  <img alig src="https://github-profile-trophy.vercel.app/?username=guilyx&theme=onedark&column=-1" />
+</p>
+
+[![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=guilyx&theme=github-dark-dimmed&custom_title=Guilyx%20Activity%20Graph&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ```yaml
 name: Erwin Lejeune
-located_in: Odense, Denmark
+located_in: Abu Dhabi, UAE
 from: Nantes (France)
-job: Navigation and Control Engineer
+job: Senior Robotics Software Engineer
 education: ["Master's in Robotics", "Master's in Embedded Systems", "Bachelor's in Electronics"]
-company: Coalescent Mobile Robotics
+company: Technology Innovation Institute
+past experiences:
+  - ["Robotics Software Engineer", "UAV Swarms", "Technology Innovation Institute", "UAE", "2022-2023"]
+  - ["Sr Robotics Software Engineer", "UGV Navigation", "Coalescent Mobile Robotics", "Denmark", "2021-2022"]
+  - ["Backend Software Engineer", "Web App Backend (Go/Postgre)", "Hiventive", "Fully Remote", "2020-2021"]
+  - ["Robotics Researcher", "AI Planning/Control", "LS2N", "France", "2019-2021]
+  - ["Robotics Intern", "UGVs", "Ingeniarius", "Portugal", "2019"]
+  - ["Embedded Systems Engineer", "STM32 Virtualization", "Hiventive", "France", "2018-2019"]
+  - ["Robotics Intern", "UGVs", "Laboratory of Digital Sciences of Nantes (LS2N)", "France", "2019"]
 
-fields_of_interests: ["Path Planning", "Trajectory Planning", "Path Following", "Behaviour Planning", "Localization", "Sensor Fusion", "Embedded Systems"]
-technical_background: ["Graph Theory", "Optimization", "Nonlinear Control", "Real-Time Systems", "Automated Planning"]
-currently_learning: ["microROS"]
+fields_of_interests: ["Path Planning", "Trajectory Planning", "Path Following", "Behaviour Planning", 
+                      "Localization", "Sensor Fusion", "Embedded Systems"]
+technical_background: ["Motion Planning", "Optimization", 
+                       "Nonlinear Control", "Real-Time Systems", "Automated Planning"]
+currently_learning: ["Web3", "React", "Vue"]
+will_learn: ["Blockchain (backend)"]
 hobbies: ["Basketball", "Cinema", "Competitive Gaming", "IoT"]
 ```
 
 <p align="center">
-  <img alig src="https://github-profile-trophy.vercel.app/?username=guilyx&column=6&rank=SSS,SS,S,AAA,AA,A,B,C" />
+  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=11147618695&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false">
 </p>
 
 <p align="center">
-  <a href="https://spotify-github-profile.vercel.app/api/view?uid=11147618695&redirect=true">
-    <img src="https://spotify-github-profile.vercel.app/api/view?uid=11147618695&cover_image=true&theme=default&bar_color=e3e3e3&bar_color_cover=true">
-  </a>
+  <img src="https://spotify-recently-played-readme.vercel.app/api?user=11147618695&count=5">
 </p>
-
-<p align="center">
-  <img src="https://guilyx.vercel.app/api/top-played">
-</p>
- 
-```yaml
-section: spotify components info
-tutorial_path: guilyx/guilyx/how-to.md
-original_idea: natemoo-re
-improved_by: andyruwruw
-note: thanks to both of them!
-```
 
 
 **:zap: Recent Activity:**
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#3](https://github.com/cmrobotics/cmr_geometry_utils/pull/3) in [cmrobotics/cmr_geometry_utils](https://github.com/cmrobotics/cmr_geometry_utils)
-2. 💪 Opened PR [#3](https://github.com/cmrobotics/cmr_geometry_utils/pull/3) in [cmrobotics/cmr_geometry_utils](https://github.com/cmrobotics/cmr_geometry_utils)
-3. 💪 Opened PR [#1](https://github.com/clemense/quaternion-conventions/pull/1) in [clemense/quaternion-conventions](https://github.com/clemense/quaternion-conventions)
-4. ❌ Closed PR [#1](https://github.com/guilyx/quaternion-conventions/pull/1) in [guilyx/quaternion-conventions](https://github.com/guilyx/quaternion-conventions)
-5. 💪 Opened PR [#1](https://github.com/guilyx/quaternion-conventions/pull/1) in [guilyx/quaternion-conventions](https://github.com/guilyx/quaternion-conventions)
+1. 💪 Opened PR [#1](https://github.com/T0k4m4K/H1DR4_AGENT/pull/1) in [T0k4m4K/H1DR4_AGENT](https://github.com/T0k4m4K/H1DR4_AGENT)
+2. ❌ Closed PR [#1](https://github.com/HunterTheAgent/H1DR4_AGENT/pull/1) in [HunterTheAgent/H1DR4_AGENT](https://github.com/HunterTheAgent/H1DR4_AGENT)
+3. 💪 Opened PR [#1](https://github.com/HunterTheAgent/H1DR4_AGENT/pull/1) in [HunterTheAgent/H1DR4_AGENT](https://github.com/HunterTheAgent/H1DR4_AGENT)
+4. 🎉 Merged PR [#1](https://github.com/guilyx/guilyx.github.io/pull/1) in [guilyx/guilyx.github.io](https://github.com/guilyx/guilyx.github.io)
+5. 💪 Opened PR [#1](https://github.com/guilyx/guilyx.github.io/pull/1) in [guilyx/guilyx.github.io](https://github.com/guilyx/guilyx.github.io)
 <!--END_SECTION:activity-->
 
-[![activity graph](https://activity-graph.herokuapp.com/graph?username=guilyx&custom_title=Erwin's%20activity%20graph&theme=github-light&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C937%20hrs%203%20mins-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-293%20Thousand%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-75.0%20million%20lines%20of%20code-blue)
 
-**I'm an Early 🐤** 
+**🐱 My GitHub Data** 
+
+> 📦 335.4 kB Used in GitHub's Storage 
+ > 
+> 🏆 140 Contributions in the Year 2025
+ > 
+> 💼 Opted to Hire
+ > 
+> 📜 71 Public Repositories 
+ > 
+> 🔑 17 Private Repositories 
+ > 
+**I'm a Night 🦉** 
 
 ```text
-🌞 Morning    150 commits    ████░░░░░░░░░░░░░░░░░░░░░   17.36% 
-🌆 Daytime    449 commits    █████████████░░░░░░░░░░░░   51.97% 
-🌃 Evening    188 commits    █████░░░░░░░░░░░░░░░░░░░░   21.76% 
-🌙 Night      77 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.91%
-
-```
-📅 **I'm Most Productive on Tuesday** 
-
-```text
-Monday       165 commits    ████░░░░░░░░░░░░░░░░░░░░░   19.1% 
-Tuesday      166 commits    ████░░░░░░░░░░░░░░░░░░░░░   19.21% 
-Wednesday    153 commits    ████░░░░░░░░░░░░░░░░░░░░░   17.71% 
-Thursday     141 commits    ████░░░░░░░░░░░░░░░░░░░░░   16.32% 
-Friday       132 commits    ███░░░░░░░░░░░░░░░░░░░░░░   15.28% 
-Saturday     54 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   6.25% 
-Sunday       53 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   6.13%
-
+🌞 Morning                344 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.13 % 
+🌆 Daytime                2376 commits        █████████░░░░░░░░░░░░░░░░   35.42 % 
+🌃 Evening                2988 commits        ███████████░░░░░░░░░░░░░░   44.54 % 
+🌙 Night                  1000 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.91 % 
 ```
 
 
 📊 **This Week I Spent My Time On** 
 
 ```text
-⌚︎ Time Zone: Europe/Paris
+🕑︎ Time Zone: Asia/Dubai
 
 💬 Programming Languages: 
-C++                      3 hrs 22 mins       ███████████████████░░░░░░   79.15% 
-CMake                    15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   6.15% 
-YAML                     12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   4.79% 
-Other                    11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   4.47% 
-XML                      6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   2.6%
+TypeScript               14 mins             ████████████████░░░░░░░░░   65.58 % 
+Markdown                 7 mins              █████████░░░░░░░░░░░░░░░░   34.42 % 
 
 🐱‍💻 Projects: 
-docking_controller       2 hrs 52 mins       ████████████████░░░░░░░░░   67.42% 
-behaviour_trees          35 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.85% 
-workspace                9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   3.78% 
-serena_setup_playbook    9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   3.53% 
-serena_bringup           7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   2.76%
-
+terminal                 14 mins             ████████████████░░░░░░░░░   65.58 % 
+guilyx.github.io         7 mins              █████████░░░░░░░░░░░░░░░░   34.42 % 
 ```
 
 
- Last Updated on 15/07/2022 17:15:51 UTC
+ Last Updated on 10/02/2025 12:45:48 UTC
 <!--END_SECTION:waka-->
+
+<!--START_SECTION:waka-simple-->
+
+```text
+From: 16 July 2020 - To: 09 February 2025
+
+Total Time: 1,937 hrs 11 mins
+
+C++                707 hrs 21 mins ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   36.51 %
+Go                 313 hrs 18 mins ⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   16.17 %
+Python             262 hrs 31 mins ⣿⣿⣿⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   13.55 %
+C                  145 hrs         ⣿⣷⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   07.49 %
+Bash               88 hrs 35 mins  ⣿⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   04.57 %
+YAML               86 hrs 15 mins  ⣿⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   04.45 %
+```
+
+<!--END_SECTION:waka-simple-->
+
+Liked it ?
+
+*ERC-20 / EVM: **0x07ed706146545d01fa66a3c08ebca8c93a0089e5***
+
+*BTC: **bc1q3lu85cfkrc20ut64v90y428l79wfnv83mu72jv***
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
